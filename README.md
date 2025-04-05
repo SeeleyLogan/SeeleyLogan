@@ -15,8 +15,17 @@ struct person_s lseeley =
 ```
 
 <details>
-<summary>current projects</summary>
+<summary>active projects</summary>
 
-- [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating useful open-source libraries for everyone to share\
+$\quad$ [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating useful open-source libraries for everyone to share\
+$\quad$ [lsgfw](https://github.com/SeeleyLogan/lsgfw) - working on making low-level programming easier
+
+</details>
+
+<details>
+<summary>currently practicing</summary>
+
+$\quad$ C - to further my knowledge on low-level computing\
+$\quad$ OpenGL - to one day create beautiful renders and demos
 
 </details>

@@ -15,10 +15,8 @@ struct person_s lseeley =
 ```
 
 <details>
-<summary><h3>Status</h3></summary>
+<summary>current projects</summary>
 
-Creating useful open-source libraries for everyone to share[^1]
+- [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating useful open-source libraries for everyone to share\
 
 </details>
-
-[^1]: [ls_libs](https://github.com/SeeleyLogan/ls_libs)

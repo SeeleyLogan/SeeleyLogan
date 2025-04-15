@@ -17,15 +17,15 @@ struct person_s lseeley =
 <details>
 <summary>active projects</summary>
 
-    [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating useful open-source libraries for everyone to share\
-    [lsgfw](https://github.com/SeeleyLogan/lsgfw) - working on making low-level programming easier
+   [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating useful open-source libraries for everyone to share\
+   [lsgfw](https://github.com/SeeleyLogan/lsgfw) - working on making low-level programming easier
 
 </details>
 
 <details>
 <summary>currently practicing</summary>
 
-    C - to further my knowledge on low-level computing\
-    OpenGL - to one day create beautiful renders and demos
+   C - to further my knowledge on low-level computing\
+   OpenGL - to one day create beautiful renders and demos
 
 </details>

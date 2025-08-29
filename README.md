@@ -19,5 +19,3 @@ struct ls_person_s seeley =
 > [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating small open-source libraries for general usage\
 
 </details>
-
-<details>

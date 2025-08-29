@@ -5,11 +5,10 @@
 ![OpenSRC](https://img.shields.io/badge/open_source-blue)
 
 ```c
-struct person_s lseeley =
+struct ls_person_s seeley =
 {
     .name     = "Logan Seeley",
     .age      = 16,
-    .skills   = C | OPENGL | PYTHON,
     .country  = "Canada"
 };
 ```
@@ -17,15 +16,8 @@ struct person_s lseeley =
 <details>
 <summary>active projects</summary>
 
-> [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating useful open-source libraries for everyone to share\
-> [lsgfw](https://github.com/SeeleyLogan/lsgfw) - working on making low-level programming easier
+> [ls_libs](https://github.com/SeeleyLogan/ls_libs) - creating small open-source libraries for general usage\
 
 </details>
 
 <details>
-<summary>currently practicing</summary>
-
-> C - to further my knowledge on low-level computing\
-> OpenGL - to one day create beautiful renders and demos
-
-</details>
